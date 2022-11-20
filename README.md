@@ -18,4 +18,11 @@
 ---
   
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
+- :telescope: I'm studying as a Python Developer and contributing to backend.
+
+- :seedling: I’m interested in projects on Django Framework
+
+- :zap: I’m currently learning Python, Django, SQL
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-hapchenko-00339a247/)

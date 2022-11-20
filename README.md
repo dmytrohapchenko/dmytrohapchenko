@@ -5,7 +5,7 @@
 - 📫 How to reach me https://www.linkedin.com/in/dmytro-hapchenko-00339a247/
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="480" height="480"/>
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300"/>
   <a href="https://www.linkedin.com/in/dmytro-hapchenko-00339a247/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>

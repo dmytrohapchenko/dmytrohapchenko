@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dmytrohapchenko from Ukraine
+- 👀 I’m interested in projects on Django Framework
+- 🌱 I’m currently learning Python, Django, SQL
+- 💞️ I’m looking to collaborate on backend developer
+- 📫 How to reach me https://www.linkedin.com/in/dmytro-hapchenko-00339a247/

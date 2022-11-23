@@ -15,7 +15,7 @@
 I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 - :telescope: I'm studying as a Python Developer and contributing to backend.
 
-- :seedling: I’m interested in projects on Django Framework
+- :seedling: I’m interested in projects in Django Framework
 
 - :zap: I’m currently learning Python, Django, SQL
 
